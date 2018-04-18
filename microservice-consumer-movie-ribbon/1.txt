@@ -1,0 +1,350 @@
+[INFO] Scanning for projects...
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-parent/1.4.3.RELEASE/spring-boot-starter-parent-1.4.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-parent/1.4.3.RELEASE/spring-boot-starter-parent-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies/Camden.SR4/spring-cloud-dependencies-Camden.SR4.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies/Camden.SR4/spring-cloud-dependencies-Camden.SR4.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies-parent/1.2.1.RELEASE/spring-cloud-dependencies-parent-1.2.1.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies-parent/1.2.1.RELEASE/spring-cloud-dependencies-parent-1.2.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-dependencies/1.1.7.RELEASE/spring-cloud-commons-dependencies-1.1.7.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-dependencies/1.1.7.RELEASE/spring-cloud-commons-dependencies-1.1.7.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-dependencies/1.2.4.RELEASE/spring-cloud-netflix-dependencies-1.2.4.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-dependencies/1.2.4.RELEASE/spring-cloud-netflix-dependencies-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-stream-dependencies/Brooklyn.SR1/spring-cloud-stream-dependencies-Brooklyn.SR1.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-stream-dependencies/Brooklyn.SR1/spring-cloud-stream-dependencies-Brooklyn.SR1.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-task-dependencies/1.0.3.RELEASE/spring-cloud-task-dependencies-1.0.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-task-dependencies/1.0.3.RELEASE/spring-cloud-task-dependencies-1.0.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies-parent/1.1.1.RELEASE/spring-cloud-dependencies-parent-1.1.1.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies-parent/1.1.1.RELEASE/spring-cloud-dependencies-parent-1.1.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-dependencies/1.2.2.RELEASE/spring-cloud-config-dependencies-1.2.2.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-dependencies/1.2.2.RELEASE/spring-cloud-config-dependencies-1.2.2.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-consul-dependencies/1.1.2.RELEASE/spring-cloud-consul-dependencies-1.1.2.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-consul-dependencies/1.1.2.RELEASE/spring-cloud-consul-dependencies-1.1.2.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-sleuth-dependencies/1.1.1.RELEASE/spring-cloud-sleuth-dependencies-1.1.1.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-sleuth-dependencies/1.1.1.RELEASE/spring-cloud-sleuth-dependencies-1.1.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-zookeeper-dependencies/1.0.3.RELEASE/spring-cloud-zookeeper-dependencies-1.0.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-zookeeper-dependencies/1.0.3.RELEASE/spring-cloud-zookeeper-dependencies-1.0.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies-parent/1.1.2.RELEASE/spring-cloud-dependencies-parent-1.1.2.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-dependencies-parent/1.1.2.RELEASE/spring-cloud-dependencies-parent-1.1.2.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-security-dependencies/1.1.3.RELEASE/spring-cloud-security-dependencies-1.1.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-security-dependencies/1.1.3.RELEASE/spring-cloud-security-dependencies-1.1.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/1.0.1.RELEASE/spring-cloud-cloudfoundry-dependencies-1.0.1.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/1.0.1.RELEASE/spring-cloud-cloudfoundry-dependencies-1.0.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-bus-dependencies/1.2.1.RELEASE/spring-cloud-bus-dependencies-1.2.1.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-bus-dependencies/1.2.1.RELEASE/spring-cloud-bus-dependencies-1.2.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-contract-dependencies/1.0.3.RELEASE/spring-cloud-contract-dependencies-1.0.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-contract-dependencies/1.0.3.RELEASE/spring-cloud-contract-dependencies-1.0.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-aws-dependencies/1.1.3.RELEASE/spring-cloud-aws-dependencies-1.1.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-aws-dependencies/1.1.3.RELEASE/spring-cloud-aws-dependencies-1.1.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/amazonaws/aws-java-sdk-bom/1.11.18/aws-java-sdk-bom-1.11.18.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/amazonaws/aws-java-sdk-bom/1.11.18/aws-java-sdk-bom-1.11.18.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/amazonaws/aws-java-sdk-pom/1.11.18/aws-java-sdk-pom-1.11.18.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/amazonaws/aws-java-sdk-pom/1.11.18/aws-java-sdk-pom-1.11.18.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-bom/4.1.4.RELEASE/spring-security-bom-4.1.4.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-bom/4.1.4.RELEASE/spring-security-bom-4.1.4.RELEASE.pom (0 B at 0.0 KB/sec)
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.itmuch.cloud:microservice-consumer-movie-ribbon:jar:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.itmuch.cloud:microservice-consumer-movie-ribbon:0.0.1-SNAPSHOT (E:\java\homework\spring-cloud-docker-microservice-book-code-master\microservice-consumer-movie-ribbon\pom.xml) points at com.itmuch.cloud:microservice-parent instead of org.springframework.boot:spring-boot-starter-parent, please verify your project structure @ line 11, column 11
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-maven-plugin/1.4.3.RELEASE/spring-boot-maven-plugin-1.4.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-maven-plugin/1.4.3.RELEASE/spring-boot-maven-plugin-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-tools/1.4.3.RELEASE/spring-boot-tools-1.4.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-tools/1.4.3.RELEASE/spring-boot-tools-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-maven-plugin/1.4.3.RELEASE/spring-boot-maven-plugin-1.4.3.RELEASE.jar
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-maven-plugin/1.4.3.RELEASE/spring-boot-maven-plugin-1.4.3.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.8.6/jooq-codegen-maven-3.8.6.pom
+3/3 KB            Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.8.6/jooq-codegen-maven-3.8.6.pom (3 KB at 11.3 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-parent/3.8.6/jooq-parent-3.8.6.pom
+4/10 KB   8/10 KB   10/10 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-parent/3.8.6/jooq-parent-3.8.6.pom (10 KB at 39.5 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.8.6/jooq-codegen-maven-3.8.6.jar
+4/15 KB    8/15 KB   12/15 KB   15/15 KB              Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/jooq/jooq-codegen-maven/3.8.6/jooq-codegen-maven-3.8.6.jar (15 KB at 46.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.6/maven-assembly-plugin-2.6.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-dependency-plugin/2.10/maven-dependency-plugin-2.10.jar (0 B at 0.0 KB/sec)
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building microservice-consumer-movie-ribbon 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-actuator/1.4.3.RELEASE/spring-boot-starter-actuator-1.4.3.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-actuator/1.4.3.RELEASE/spring-boot-starter-actuator-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-eureka/1.2.4.RELEASE/spring-cloud-starter-eureka-1.2.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-eureka/1.2.4.RELEASE/spring-cloud-starter-eureka-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix/1.2.4.RELEASE/spring-cloud-netflix-1.2.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix/1.2.4.RELEASE/spring-cloud-netflix-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-build/1.2.1.RELEASE/spring-cloud-build-1.2.1.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-build/1.2.1.RELEASE/spring-cloud-build-1.2.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-dependencies/1.4.1.RELEASE/spring-boot-dependencies-1.4.1.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.3.3.RELEASE/spring-framework-bom-4.3.3.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.3.3.RELEASE/spring-framework-bom-4.3.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Hopper-SR3/spring-data-releasetrain-Hopper-SR3.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Hopper-SR3/spring-data-releasetrain-Hopper-SR3.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/build/spring-data-build/1.8.3.RELEASE/spring-data-build-1.8.3.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/build/spring-data-build/1.8.3.RELEASE/spring-data-build-1.8.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/integration/spring-integration-bom/4.3.2.RELEASE/spring-integration-bom-4.3.2.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/integration/spring-integration-bom/4.3.2.RELEASE/spring-integration-bom-4.3.2.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.7.RELEASE/spring-cloud-starter-1.1.7.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.7.RELEASE/spring-cloud-starter-1.1.7.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-parent/1.1.7.RELEASE/spring-cloud-commons-parent-1.1.7.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons-parent/1.1.7.RELEASE/spring-cloud-commons-parent-1.1.7.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-build/1.1.3.RELEASE/spring-cloud-build-1.1.3.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-build/1.1.3.RELEASE/spring-cloud-build-1.1.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-dependencies/1.3.8.RELEASE/spring-boot-dependencies-1.3.8.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-dependencies/1.3.8.RELEASE/spring-boot-dependencies-1.3.8.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.2.8.RELEASE/spring-framework-bom-4.2.8.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.2.8.RELEASE/spring-framework-bom-4.2.8.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Gosling-SR5/spring-data-releasetrain-Gosling-SR5.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Gosling-SR5/spring-data-releasetrain-Gosling-SR5.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/build/spring-data-build/1.7.5.RELEASE/spring-data-build-1.7.5.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/build/spring-data-build/1.7.5.RELEASE/spring-data-build-1.7.5.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/integration/spring-integration-bom/4.2.9.RELEASE/spring-integration-bom-4.2.9.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/integration/spring-integration-bom/4.2.9.RELEASE/spring-integration-bom-4.2.9.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-bom/4.0.4.RELEASE/spring-security-bom-4.0.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-bom/4.0.4.RELEASE/spring-security-bom-4.0.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.7.RELEASE/spring-cloud-context-1.1.7.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.7.RELEASE/spring-cloud-context-1.1.7.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-crypto/4.1.4.RELEASE/spring-security-crypto-4.1.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-crypto/4.1.4.RELEASE/spring-security-crypto-4.1.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.7.RELEASE/spring-cloud-commons-1.1.7.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.7.RELEASE/spring-cloud-commons-1.1.7.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-core/1.2.4.RELEASE/spring-cloud-netflix-core-1.2.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-core/1.2.4.RELEASE/spring-cloud-netflix-core-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.4.RELEASE/spring-cloud-netflix-eureka-client-1.2.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.4.RELEASE/spring-cloud-netflix-eureka-client-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/joda-time/joda-time/2.9.6/joda-time-2.9.6.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/code/gson/gson/2.7/gson-2.7.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/code/gson/gson/2.7/gson-2.7.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/code/gson/gson-parent/2.7/gson-parent-2.7.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/code/gson/gson-parent/2.7/gson-parent-2.7.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/guice/4.0/guice-4.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/guice/4.0/guice-4.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/guice-parent/4.0/guice-parent-4.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/guice-parent/4.0/guice-parent-4.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-core/1.4.12/eureka-core-1.4.12.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-core/1.4.12/eureka-core-1.4.12.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator/1.12.10/governator-1.12.10.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator/1.12.10/governator-1.12.10.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-core/1.12.10/governator-core-1.12.10.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-core/1.12.10/governator-core-1.12.10.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-multibindings/4.0/guice-multibindings-4.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-multibindings/4.0/guice-multibindings-4.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/extensions-parent/4.0/extensions-parent-4.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/extensions-parent/4.0/extensions-parent-4.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-grapher/4.0/guice-grapher-4.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-grapher/4.0/guice-grapher-4.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-archaius/1.2.4.RELEASE/spring-cloud-starter-archaius-1.2.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-archaius/1.2.4.RELEASE/spring-cloud-starter-archaius-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-ribbon/1.2.4.RELEASE/spring-cloud-starter-ribbon-1.2.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-ribbon/1.2.4.RELEASE/spring-cloud-starter-ribbon-1.2.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.4.3.RELEASE/spring-boot-starter-aop-1.4.3.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.4.3.RELEASE/spring-boot-starter-aop-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.1.5.RELEASE/spring-retry-1.1.5.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.1.5.RELEASE/spring-retry-1.1.5.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.0.4.RELEASE/spring-framework-bom-4.0.4.RELEASE.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.0.4.RELEASE/spring-framework-bom-4.0.4.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/io/reactivex/rxjava/1.1.10/rxjava-1.1.10.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/io/reactivex/rxjava/1.1.10/rxjava-1.1.10.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/ribbon/ribbon-eureka/2.2.0/ribbon-eureka-2.2.0.pom
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/ribbon/ribbon-eureka/2.2.0/ribbon-eureka-2.2.0.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-actuator/1.4.3.RELEASE/spring-boot-starter-actuator-1.4.3.RELEASE.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-eureka/1.2.4.RELEASE/spring-cloud-starter-eureka-1.2.4.RELEASE.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.7.RELEASE/spring-cloud-starter-1.1.7.RELEASE.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.7.RELEASE/spring-cloud-context-1.1.7.RELEASE.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-crypto/4.1.4.RELEASE/spring-security-crypto-4.1.4.RELEASE.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-actuator/1.4.3.RELEASE/spring-boot-starter-actuator-1.4.3.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.7.RELEASE/spring-cloud-commons-1.1.7.RELEASE.jar
+                                 Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter/1.1.7.RELEASE/spring-cloud-starter-1.1.7.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/security/spring-security-crypto/4.1.4.RELEASE/spring-security-crypto-4.1.4.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-context/1.1.7.RELEASE/spring-cloud-context-1.1.7.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.4.RELEASE/spring-cloud-netflix-eureka-client-1.2.4.RELEASE.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-core/1.2.4.RELEASE/spring-cloud-netflix-core-1.2.4.RELEASE.jar
+           Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12.jar
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-eureka/1.2.4.RELEASE/spring-cloud-starter-eureka-1.2.4.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-commons/1.1.7.RELEASE/spring-cloud-commons-1.1.7.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/code/gson/gson/2.7/gson-2.7.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/joda-time/joda-time/2.9.6/joda-time-2.9.6.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-client/1.4.12/eureka-client-1.4.12.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/guice/4.0/guice-4.0.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-core/1.2.4.RELEASE/spring-cloud-netflix-core-1.2.4.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/code/gson/gson/2.7/gson-2.7.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-core/1.4.12/eureka-core-1.4.12.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/guice/4.0/guice-4.0.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator/1.12.10/governator-1.12.10.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-netflix-eureka-client/1.2.4.RELEASE/spring-cloud-netflix-eureka-client-1.2.4.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-core/1.12.10/governator-core-1.12.10.jar
+                      Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-api/1.12.10/governator-api-1.12.10.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-grapher/4.0/guice-grapher-4.0.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-multibindings/4.0/guice-multibindings-4.0.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/eureka/eureka-core/1.4.12/eureka-core-1.4.12.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.jar
+                      Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator-core/1.12.10/governator-core-1.12.10.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-archaius/1.2.4.RELEASE/spring-cloud-starter-archaius-1.2.4.RELEASE.jar
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/governator/governator/1.12.10/governator-1.12.10.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-ribbon/1.2.4.RELEASE/spring-cloud-starter-ribbon-1.2.4.RELEASE.jar
+                      Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-grapher/4.0/guice-grapher-4.0.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.4.3.RELEASE/spring-boot-starter-aop-1.4.3.RELEASE.jar
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-multibindings/4.0/guice-multibindings-4.0.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.1.5.RELEASE/spring-retry-1.1.5.RELEASE.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6.jar
+                      Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-archaius/1.2.4.RELEASE/spring-cloud-starter-archaius-1.2.4.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/io/reactivex/rxjava/1.1.10/rxjava-1.1.10.jar
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-starter-ribbon/1.2.4.RELEASE/spring-cloud-starter-ribbon-1.2.4.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/ribbon/ribbon-eureka/2.2.0/ribbon-eureka-2.2.0.jar
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-aop/1.4.3.RELEASE/spring-boot-starter-aop-1.4.3.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar
+                      Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.1.5.RELEASE/spring-retry-1.1.5.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/hystrix/hystrix-core/1.5.6/hystrix-core-1.5.6.jar (0 B at 0.0 KB/sec)
+           Downloaded: http://maven.aliyun.com/nexus/content/groups/public/io/reactivex/rxjava/1.1.10/rxjava-1.1.10.jar (0 B at 0.0 KB/sec)
+                      Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/netflix/ribbon/ribbon-eureka/2.2.0/ribbon-eureka-2.2.0.jar (0 B at 0.0 KB/sec)
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ microservice-consumer-movie-ribbon ---
+[INFO] com.itmuch.cloud:microservice-consumer-movie-ribbon:jar:0.0.1-SNAPSHOT
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:1.4.3.RELEASE:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:1.4.3.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:1.4.3.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:1.4.3.RELEASE:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-starter-logging:jar:1.4.3.RELEASE:compile
+[INFO] |  |  |  +- ch.qos.logback:logback-classic:jar:1.1.8:compile
+[INFO] |  |  |  |  \- ch.qos.logback:logback-core:jar:1.1.8:compile
+[INFO] |  |  |  +- org.slf4j:jcl-over-slf4j:jar:1.7.22:compile
+[INFO] |  |  |  +- org.slf4j:jul-to-slf4j:jar:1.7.22:compile
+[INFO] |  |  |  \- org.slf4j:log4j-over-slf4j:jar:1.7.22:compile
+[INFO] |  |  +- org.springframework:spring-core:jar:4.3.5.RELEASE:compile
+[INFO] |  |  \- org.yaml:snakeyaml:jar:1.17:runtime
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:1.4.3.RELEASE:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.6:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.6:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.6:compile
+[INFO] |  +- org.hibernate:hibernate-validator:jar:5.2.4.Final:compile
+[INFO] |  |  +- javax.validation:validation-api:jar:1.1.0.Final:compile
+[INFO] |  |  +- org.jboss.logging:jboss-logging:jar:3.3.0.Final:compile
+[INFO] |  |  \- com.fasterxml:classmate:jar:1.3.3:compile
+[INFO] |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.8.5:compile
+[INFO] |  |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.8.5:compile
+[INFO] |  |  \- com.fasterxml.jackson.core:jackson-core:jar:2.8.5:compile
+[INFO] |  +- org.springframework:spring-web:jar:4.3.5.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-aop:jar:4.3.5.RELEASE:compile
+[INFO] |  |  +- org.springframework:spring-beans:jar:4.3.5.RELEASE:compile
+[INFO] |  |  \- org.springframework:spring-context:jar:4.3.5.RELEASE:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:4.3.5.RELEASE:compile
+[INFO] |     \- org.springframework:spring-expression:jar:4.3.5.RELEASE:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-actuator:jar:1.4.3.RELEASE:compile
+[INFO] |  \- org.springframework.boot:spring-boot-actuator:jar:1.4.3.RELEASE:compile
+[INFO] \- org.springframework.cloud:spring-cloud-starter-eureka:jar:1.2.4.RELEASE:compile
+[INFO]    +- org.springframework.cloud:spring-cloud-starter:jar:1.1.7.RELEASE:compile
+[INFO]    |  +- org.springframework.cloud:spring-cloud-context:jar:1.1.7.RELEASE:compile
+[INFO]    |  |  \- org.springframework.security:spring-security-crypto:jar:4.1.4.RELEASE:compile
+[INFO]    |  +- org.springframework.cloud:spring-cloud-commons:jar:1.1.7.RELEASE:compile
+[INFO]    |  \- org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE:compile
+[INFO]    |     \- org.bouncycastle:bcpkix-jdk15on:jar:1.55:compile
+[INFO]    |        \- org.bouncycastle:bcprov-jdk15on:jar:1.55:compile
+[INFO]    +- org.springframework.cloud:spring-cloud-netflix-core:jar:1.2.4.RELEASE:compile
+[INFO]    +- org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:1.2.4.RELEASE:compile
+[INFO]    +- com.netflix.eureka:eureka-client:jar:1.4.12:compile
+[INFO]    |  +- org.codehaus.jettison:jettison:jar:1.3.7:runtime
+[INFO]    |  |  \- stax:stax-api:jar:1.0.1:runtime
+[INFO]    |  +- com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0:runtime
+[INFO]    |  |  +- com.netflix.netflix-commons:netflix-infix:jar:0.3.0:runtime
+[INFO]    |  |  |  +- commons-jxpath:commons-jxpath:jar:1.3:runtime
+[INFO]    |  |  |  +- joda-time:joda-time:jar:2.9.6:runtime
+[INFO]    |  |  |  +- org.antlr:antlr-runtime:jar:3.4:runtime
+[INFO]    |  |  |  |  +- org.antlr:stringtemplate:jar:3.2.1:runtime
+[INFO]    |  |  |  |  \- antlr:antlr:jar:2.7.7:runtime
+[INFO]    |  |  |  \- com.google.code.gson:gson:jar:2.7:runtime
+[INFO]    |  |  \- org.apache.commons:commons-math:jar:2.2:runtime
+[INFO]    |  +- com.netflix.archaius:archaius-core:jar:0.7.4:compile
+[INFO]    |  +- javax.ws.rs:jsr311-api:jar:1.1.1:runtime
+[INFO]    |  +- com.netflix.servo:servo-core:jar:0.10.1:runtime
+[INFO]    |  |  \- com.netflix.servo:servo-internal:jar:0.10.1:runtime
+[INFO]    |  +- com.sun.jersey:jersey-core:jar:1.19.1:runtime
+[INFO]    |  +- com.sun.jersey:jersey-client:jar:1.19.1:runtime
+[INFO]    |  +- com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1:runtime
+[INFO]    |  +- org.apache.httpcomponents:httpclient:jar:4.5.2:runtime
+[INFO]    |  |  +- org.apache.httpcomponents:httpcore:jar:4.4.5:runtime
+[INFO]    |  |  \- commons-codec:commons-codec:jar:1.10:runtime
+[INFO]    |  +- com.google.inject:guice:jar:4.0:runtime
+[INFO]    |  |  +- javax.inject:javax.inject:jar:1:runtime
+[INFO]    |  |  \- aopalliance:aopalliance:jar:1.0:runtime
+[INFO]    |  \- com.netflix.governator:governator-api:jar:1.12.10:runtime
+[INFO]    +- com.netflix.eureka:eureka-core:jar:1.4.12:compile
+[INFO]    |  +- com.netflix.governator:governator:jar:1.12.10:runtime
+[INFO]    |  |  +- com.netflix.governator:governator-core:jar:1.12.10:runtime
+[INFO]    |  |  |  +- com.google.inject.extensions:guice-multibindings:jar:4.0:runtime
+[INFO]    |  |  |  \- com.google.inject.extensions:guice-grapher:jar:4.0:runtime
+[INFO]    |  |  |     \- com.google.inject.extensions:guice-assistedinject:jar:4.0:runtime
+[INFO]    |  |  \- org.ow2.asm:asm:jar:5.0.4:runtime
+[INFO]    |  \- org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1:runtime
+[INFO]    |     +- javax.xml.stream:stax-api:jar:1.0-2:runtime
+[INFO]    |     \- org.codehaus.woodstox:stax2-api:jar:3.1.4:runtime
+[INFO]    +- org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.4.RELEASE:compile
+[INFO]    |  +- commons-configuration:commons-configuration:jar:1.8:compile
+[INFO]    |  |  \- commons-lang:commons-lang:jar:2.6:compile
+[INFO]    |  \- com.google.guava:guava:jar:18.0:compile
+[INFO]    +- org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.4.RELEASE:compile
+[INFO]    |  +- org.springframework.boot:spring-boot-starter-aop:jar:1.4.3.RELEASE:compile
+[INFO]    |  |  \- org.aspectj:aspectjweaver:jar:1.8.9:compile
+[INFO]    |  +- org.springframework.retry:spring-retry:jar:1.1.5.RELEASE:compile
+[INFO]    |  +- com.netflix.ribbon:ribbon:jar:2.2.0:compile
+[INFO]    |  |  +- com.netflix.ribbon:ribbon-transport:jar:2.2.0:runtime
+[INFO]    |  |  |  +- io.reactivex:rxnetty-contexts:jar:0.4.9:runtime
+[INFO]    |  |  |  \- io.reactivex:rxnetty-servo:jar:0.4.9:runtime
+[INFO]    |  |  +- com.netflix.hystrix:hystrix-core:jar:1.5.6:runtime
+[INFO]    |  |  |  \- org.hdrhistogram:HdrHistogram:jar:2.1.9:runtime
+[INFO]    |  |  \- io.reactivex:rxnetty:jar:0.4.9:runtime
+[INFO]    |  |     +- io.netty:netty-codec-http:jar:4.0.27.Final:runtime
+[INFO]    |  |     |  +- io.netty:netty-codec:jar:4.0.27.Final:runtime
+[INFO]    |  |     |  \- io.netty:netty-handler:jar:4.0.27.Final:runtime
+[INFO]    |  |     \- io.netty:netty-transport-native-epoll:jar:4.0.27.Final:runtime
+[INFO]    |  |        +- io.netty:netty-common:jar:4.0.27.Final:runtime
+[INFO]    |  |        +- io.netty:netty-buffer:jar:4.0.27.Final:runtime
+[INFO]    |  |        \- io.netty:netty-transport:jar:4.0.27.Final:runtime
+[INFO]    |  +- com.netflix.ribbon:ribbon-core:jar:2.2.0:compile
+[INFO]    |  +- com.netflix.ribbon:ribbon-httpclient:jar:2.2.0:compile
+[INFO]    |  |  +- commons-collections:commons-collections:jar:3.2.2:runtime
+[INFO]    |  |  \- com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1:runtime
+[INFO]    |  +- com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.0:compile
+[INFO]    |  |  \- com.netflix.netflix-commons:netflix-statistics:jar:0.1.1:runtime
+[INFO]    |  \- io.reactivex:rxjava:jar:1.1.10:compile
+[INFO]    +- com.netflix.ribbon:ribbon-eureka:jar:2.2.0:compile
+[INFO]    |  \- org.slf4j:slf4j-api:jar:1.7.22:compile
+[INFO]    \- com.thoughtworks.xstream:xstream:jar:1.4.9:compile
+[INFO]       +- xmlpull:xmlpull:jar:1.1.3.1:compile
+[INFO]       \- xpp3:xpp3_min:jar:1.1.4c:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 21.695 s
+[INFO] Finished at: 2018-03-06T23:27:02+08:00
+[INFO] Final Memory: 23M/120M
+[INFO] ------------------------------------------------------------------------

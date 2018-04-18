@@ -1,0 +1,27 @@
+server:
+  port: 8080              # 指定该Eureka实例的端口
+  address: 127.0.0.1
+  ssl:
+    key-store: classpath:server.keystore
+    key-alias: server
+    key-store-type: JKS
+    key-store-password: 123456
+    trust-store: classpath:server.truststore
+    trust-store-password: 123456
+    trust-store-type: JKS
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8080/eureka/
+security:
+  basic:
+    enabled: true
+  user:
+    password: 123456
+    name: user
+
+
+# 参考文档：http://projects.spring.io/spring-cloud/docs/1.0.3/spring-cloud.html#_standalone_mode
+# 参考文档：http://my.oschina.net/buwei/blog/618756

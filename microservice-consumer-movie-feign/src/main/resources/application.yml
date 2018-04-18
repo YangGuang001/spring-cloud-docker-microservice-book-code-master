@@ -1,0 +1,15 @@
+server:
+  port: 8050
+spring:
+  application:
+    name: microservice-consumer-movie
+  cloud:
+    loadbalancer:
+      retry:
+        enabled: true
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8080/eureka/
+  instance:
+    prefer-ip-address: true

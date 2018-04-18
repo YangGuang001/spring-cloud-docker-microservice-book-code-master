@@ -1,0 +1,89 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.itmuch.cloud:microservice-config-server:jar:0.0.1-SNAPSHOT
+[WARNING] 'parent.relativePath' of POM com.itmuch.cloud:microservice-config-server:0.0.1-SNAPSHOT (E:\java\homework\spring-cloud-docker-microservice-book-code-master\microservice-config-server\pom.xml) points at com.itmuch.cloud:microservice-parent instead of org.springframework.boot:spring-boot-starter-parent, please verify your project structure @ line 11, column 11
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building microservice-config-server 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-server/1.2.2.RELEASE/spring-cloud-config-server-1.2.2.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-server/1.2.2.RELEASE/spring-cloud-config-server-1.2.2.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r/org.eclipse.jgit-3.5.3.201412180710-r.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r/org.eclipse.jgit-3.5.3.201412180710-r.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/jgit/org.eclipse.jgit-parent/3.5.3.201412180710-r/org.eclipse.jgit-parent-3.5.3.201412180710-r.pom
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/jgit/org.eclipse.jgit-parent/3.5.3.201412180710-r/org.eclipse.jgit-parent-3.5.3.201412180710-r.pom (0 B at 0.0 KB/sec)
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-server/1.2.2.RELEASE/spring-cloud-config-server-1.2.2.RELEASE.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.jar
+Downloading: http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r/org.eclipse.jgit-3.5.3.201412180710-r.jar
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/springframework/cloud/spring-cloud-config-server/1.2.2.RELEASE/spring-cloud-config-server-1.2.2.RELEASE.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/org/eclipse/jgit/org.eclipse.jgit/3.5.3.201412180710-r/org.eclipse.jgit-3.5.3.201412180710-r.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.jar (0 B at 0.0 KB/sec)
+Downloaded: http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.jar (0 B at 0.0 KB/sec)
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.10:tree (default-cli) @ microservice-config-server ---
+[INFO] com.itmuch.cloud:microservice-config-server:jar:0.0.1-SNAPSHOT
+[INFO] \- org.springframework.cloud:spring-cloud-config-server:jar:1.2.2.RELEASE:compile
+[INFO]    +- org.springframework.cloud:spring-cloud-config-client:jar:1.2.2.RELEASE:compile
+[INFO]    |  +- org.springframework.boot:spring-boot-autoconfigure:jar:1.4.3.RELEASE:compile
+[INFO]    |  |  \- org.springframework.boot:spring-boot:jar:1.4.3.RELEASE:compile
+[INFO]    |  +- org.springframework.cloud:spring-cloud-commons:jar:1.1.7.RELEASE:compile
+[INFO]    |  +- org.springframework.cloud:spring-cloud-context:jar:1.1.7.RELEASE:compile
+[INFO]    |  +- org.springframework:spring-web:jar:4.3.5.RELEASE:compile
+[INFO]    |  |  +- org.springframework:spring-aop:jar:4.3.5.RELEASE:compile
+[INFO]    |  |  +- org.springframework:spring-beans:jar:4.3.5.RELEASE:compile
+[INFO]    |  |  +- org.springframework:spring-context:jar:4.3.5.RELEASE:compile
+[INFO]    |  |  \- org.springframework:spring-core:jar:4.3.5.RELEASE:compile
+[INFO]    |  +- com.fasterxml.jackson.core:jackson-annotations:jar:2.8.5:compile
+[INFO]    |  \- com.fasterxml.jackson.core:jackson-databind:jar:2.8.5:compile
+[INFO]    |     \- com.fasterxml.jackson.core:jackson-core:jar:2.8.5:compile
+[INFO]    +- org.springframework.boot:spring-boot-starter-actuator:jar:1.4.3.RELEASE:compile
+[INFO]    |  +- org.springframework.boot:spring-boot-starter:jar:1.4.3.RELEASE:compile
+[INFO]    |  |  \- org.springframework.boot:spring-boot-starter-logging:jar:1.4.3.RELEASE:compile
+[INFO]    |  |     +- ch.qos.logback:logback-classic:jar:1.1.8:compile
+[INFO]    |  |     |  +- ch.qos.logback:logback-core:jar:1.1.8:compile
+[INFO]    |  |     |  \- org.slf4j:slf4j-api:jar:1.7.22:compile
+[INFO]    |  |     +- org.slf4j:jcl-over-slf4j:jar:1.7.22:compile
+[INFO]    |  |     +- org.slf4j:jul-to-slf4j:jar:1.7.22:compile
+[INFO]    |  |     \- org.slf4j:log4j-over-slf4j:jar:1.7.22:compile
+[INFO]    |  \- org.springframework.boot:spring-boot-actuator:jar:1.4.3.RELEASE:compile
+[INFO]    +- org.springframework.boot:spring-boot-starter-web:jar:1.4.3.RELEASE:compile
+[INFO]    |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:1.4.3.RELEASE:compile
+[INFO]    |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.6:compile
+[INFO]    |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.6:compile
+[INFO]    |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.6:compile
+[INFO]    |  +- org.hibernate:hibernate-validator:jar:5.2.4.Final:compile
+[INFO]    |  |  +- javax.validation:validation-api:jar:1.1.0.Final:compile
+[INFO]    |  |  +- org.jboss.logging:jboss-logging:jar:3.3.0.Final:compile
+[INFO]    |  |  \- com.fasterxml:classmate:jar:1.3.3:compile
+[INFO]    |  \- org.springframework:spring-webmvc:jar:4.3.5.RELEASE:compile
+[INFO]    |     \- org.springframework:spring-expression:jar:4.3.5.RELEASE:compile
+[INFO]    +- org.springframework.security:spring-security-crypto:jar:4.1.4.RELEASE:compile
+[INFO]    +- org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE:compile
+[INFO]    |  \- org.bouncycastle:bcpkix-jdk15on:jar:1.55:compile
+[INFO]    |     \- org.bouncycastle:bcprov-jdk15on:jar:1.55:compile
+[INFO]    +- org.eclipse.jgit:org.eclipse.jgit:jar:3.5.3.201412180710-r:compile
+[INFO]    |  +- com.jcraft:jsch:jar:0.1.50:compile
+[INFO]    |  +- com.googlecode.javaewah:JavaEWAH:jar:0.7.9:compile
+[INFO]    |  \- org.apache.httpcomponents:httpclient:jar:4.5.2:compile
+[INFO]    |     +- org.apache.httpcomponents:httpcore:jar:4.4.5:compile
+[INFO]    |     \- commons-codec:commons-codec:jar:1.10:compile
+[INFO]    \- org.yaml:snakeyaml:jar:1.17:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.524 s
+[INFO] Finished at: 2018-03-25T21:54:34+08:00
+[INFO] Final Memory: 24M/285M
+[INFO] ------------------------------------------------------------------------
